@@ -1,0 +1,35 @@
+{
+  "name": "qgjtdo.run",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "react": "16.9.0",
+    "react-dom": "16.9.0",
+    "@progress/kendo-react-grid": "3.4.1",
+    "@progress/kendo-react-intl": "3.4.1",
+    "@progress/kendo-react-dateinputs": "3.4.1",
+    "@progress/kendo-react-animation": "3.4.1",
+    "@progress/kendo-data-query": "1.5.2",
+    "@progress/kendo-react-popup": "3.4.1",
+    "@progress/kendo-react-inputs": "3.4.1",
+    "@progress/kendo-react-buttons": "3.4.1",
+    "@progress/kendo-react-dropdowns": "3.4.1",
+    "@progress/kendo-react-pdf": "3.4.1",
+    "@progress/kendo-react-excel-export": "3.4.1",
+    "@progress/kendo-drawing": "1.5.12",
+    "@progress/kendo-react-dialogs": "3.4.1",
+    "@progress/kendo-react-layout": "3.4.1",
+    "prop-types": "15.7.2",
+    "react-transition-group": "4.3.0",
+    "@progress/kendo-date-math": "1.4.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "react-scripts": "latest"
+  }
+}
